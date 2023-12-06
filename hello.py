@@ -1,4 +1,4 @@
-#!/usr/bin/python
+# This Python file uses the following encoding: utf-8
 print("feature-added")
 print("Hello, world")
 print("new change")
